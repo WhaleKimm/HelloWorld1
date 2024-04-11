@@ -1,0 +1,7 @@
+#Ctrl + Alt + Shift + Z : 코드에 주석 추가 
+#Ctrl + Alt + Shift + G : 코드 생성 
+#Ctrl + Alt + Shift + C : 코드 검토 #Ctrl + Alt + Shift + D : 디버깅 #Ctrl + Alt + Shift + M : 코드관련된 것 뿐이 아니라 다양한 답변 추출 #Ctrl + Alt + Shift + . : 다양한 답변을 추출하는 명령어를 사용한 내역 #Ctrl + Alt + Shift + , : 입력 상자가 있는 다양한 답변 추출 
+#Ctrl + Alt + Shift + N : 변수, 함수 등의 이름 지정 
+#Ctrl + Alt + Shift + R : 코드 리펙토링 
+#Ctrl + Alt + Shift + L : 코드 수정 요청 내역 
+#Ctrl + Alt + Shift + K : 코드 수정 요청
